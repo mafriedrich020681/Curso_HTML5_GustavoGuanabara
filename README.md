@@ -14,3 +14,6 @@ Você sabe como surgiu a linguagem HTML? Conhece a evolução desde a HTML1 até
 
 ## 3 - Como Funciona a Internet
 Entenda o funcionamento de toda a infraestrutura que permite o funcionamento da internet.
+
+## 4 - Primeiro Exemplo em HTML5
+Aula 100% prática de HTML5 com CSS3. Conheça as tags básicas e saiba como criar um documento no novo padrão.
