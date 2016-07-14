@@ -96,3 +96,33 @@ Outra coisa muito importante é utilizar a opção de “Exportar para Web” do
 Como carregar uma imagem em HTML5 que esteja em uma outra pasta?
 
 Novos parâmetros FIGURE e FIGCAPTION. O HTML5 ganhou um caráter semântico, e utilizar legendas de imagens em HTML5 é um ótimo recurso para otimizar seu site para mecanismos de busca, técnicas conhecidas como SEO.
+
+# 10 - Formatação de Imagens com CSS3
+
+Formatar imagens utilizando folhas de estilo CSS é algo muito simples e requer o conhecimento de alguns parâmetros específicos em HTML5 e CSS3. Nessa aula, você verá como criar um efeito de transparência e animação com CSS em uma legenda que vai flutuar sobre a foto, que também terá uma elegante borda simulando um retrato sobre a mesa.
+
+Estilos CSS em arquivos separados
+Quando as formatações com folhas de estilo CSS começam a ficar grandes demais, o ideal é trabalhar com arquivos CSS externos. Para isso, utilizamos a tag LINK com o parâmetro REL de valor STYLESHEET.
+
+Comentários em CSS
+Para comentar pedaços de código em CSS, utilizamos os caracteres /* e logo após a descrição do comentário, colocamos */
+
+Referenciando CLASS e ID
+A diferença entre CLASS e ID dentro das CSS é na referência. Para usar o CLASS, utilizamos o caractere de ponto (.) e para o ID, utilizaremos a cerquilha (#)
+
+Tamanho de objetos em CSS
+Utilizando os parâmetros WIDTH (largura) e HEIGHT (altura), você pode modificar o tamanho de um objeto utilizando CSS.
+
+Posição de objetos em CSS
+Utilizando os parâmetros TOP (topo) e LEFT (esquerda)
+
+Utilizando o POSITION em CSS – Diferença entre RELATIVE e ABSOLUTE
+Existem dois tipos de posicionamento para CSS: com o POSITION RELATIVE, ele terá a localização feita em relação à sua posição atual. Para POSITION ABSOLUTE, ele terá a localização feita em relação a todo o conteúdo.
+
+CSS com BOX-SIZING com o parâmetro BORDER-BOX.
+
+Modificando opacidade com CSS utilizando o parâmetro OPACITY.
+
+Utilizando o HOVER em um objeto com CSS vai fazer com que uma formatação específica
+
+TRANSITION com CSS adiciona efeitos de transição ao modificar características visuais em um objeto.
