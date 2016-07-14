@@ -82,3 +82,17 @@ Em HTML5 e CSS3, também podemos criar cores utilizando a representação percen
 De maneira similar, temos também a função hlsa() para indicar também o canal alpha.
 
 Podemos também colocar imagens no fundo do site utilizando o parâmetro background e utilizar a função url() do CSS para carregar uma imagem.
+
+# 9 - Imagens em HTML5
+
+Como inserir uma imagem em HTML5? Nessa aula, veremos como utilizar a tag IMG para inserir fotos em um site feito em HTML5.
+
+Qual a diferença entre PNG e JPG? O formato PNG é ligeiramente maior, mas possibilitam transparências. O formato JPEG é mais otimizado, pois suporta compressão sem uma perda perceptível na qualidade visual.
+
+Utilizando os parâmetros WIDTH ou HEIGHT, você pode redimensionar uma imagem pelo HTML. Porém, a melhor maneira de se diminuir o tamanho do arquivo é utilizar um editor de imagens para realizar o redimensionamento.
+
+Outra coisa muito importante é utilizar a opção de “Exportar para Web” do seu editor de imagem. Isso gera um arquivo menor ainda, mais otimizado para ser utilizado em sites construídos com HTML5. Durante a aula, será mostrado como reduzir um arquivo de exemplo em praticamente 300KB.
+
+Como carregar uma imagem em HTML5 que esteja em uma outra pasta?
+
+Novos parâmetros FIGURE e FIGCAPTION. O HTML5 ganhou um caráter semântico, e utilizar legendas de imagens em HTML5 é um ótimo recurso para otimizar seu site para mecanismos de busca, técnicas conhecidas como SEO.
