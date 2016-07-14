@@ -64,3 +64,21 @@ Indentação de parágrafos com HTML5: Utilizando text-indent em CSS você pode 
 Configuração global nas CSS: Utilizando a tag STYLE do HTML5, você pode criar formatações de folha de estilo que vão funcionar para todos os objetos em uma página.
 
 Tags de formatação em HTML5: Entenda o funcionamento de tags como SUP, SUB, CODE e PRE.
+
+# 8 - Códigos de Cores em HTML5 e CSS3
+
+Algumas tags e parâmetros foram descontinuadas do HTML4 para o HTML5, incluindo o FONT COLOR e o BGCOLOR da tag BODY. A partir de agora, devemos utilizar o parâmetro STYLE de qualquer tag e utilizar as configurações de background-color e color do CSS.
+
+A utilização de cores através de seus nomes (como red, green, blue, etc) é algo bastante limitado. Por conta disso, vamos aprender nesse vídeo, como utilizar o código para cores RGB.
+
+Para o código de cores #60453E, por exemplo, temos as quantidades de vermelho/red (60), verde/green (45) e azul/blue (3E). A junção desses códigos vai gerar uma cor única, em um espectro que possui milhões de combinações. Cada valor é representado em base hexadecimal.
+
+Outra maneira de utilizar cores em CSS é utilizando o modificador rgb(), passando as quantidades de vermelho, verde e azul em valores representados na base decimal.
+
+Em HTML5 e CSS3, utilizando o rgba() nas CSS3, podemos ainda incluir a configuração do canal alpha, que vai de 0 até 1.
+
+Em HTML5 e CSS3, também podemos criar cores utilizando a representação percentual de Matiz (Hue), saturação (Saturation) e luminosidade (Brightness) utilizando a função hlsa() das folhas de estilo.
+
+De maneira similar, temos também a função hlsa() para indicar também o canal alpha.
+
+Podemos também colocar imagens no fundo do site utilizando o parâmetro background e utilizar a função url() do CSS para carregar uma imagem.
