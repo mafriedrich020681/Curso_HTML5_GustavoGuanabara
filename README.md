@@ -150,3 +150,26 @@ Vamos entender como realizar ligações entre sites ou entre páginas dentro de 
 O parâmetro Hypertext Reference, ou HREF. Ele cria uma referência hipertexto para outras páginas.
 
 O parâmetro TARGET da tag A vai permitir indicar em qual janela o conteúdo será aberto. O valor _blank vai permitir abrir em uma janela em branco, enquanto o parâmetro _self vai abrir o conteúdo na janela atual.
+
+## 13 – Menu com CSS3
+
+Veja como criar um menu suspenso utilizando apenas HTML5 e CSS3.
+
+A partir do HTML5, a tag NAV é utilizada para criar áreas de navegação. Com o CSS3, podemos configurar posicionamento, cores, efeitos de transição e outros comportamentos. Nessa aula, veremos como transformar uma lista com demarcadores em um menu flutuante para o nosso site.
+
+Para realizar essas configurações, aprenderemos alguns parâmetros de CSS3, como:
+
+Modificar o formato da lista, eliminando os demarcadores com o LIST-STYLE
+Utilizando o TEXT-TRANSFORM com o valor UPPERCASE, alteramos todas as letras de cada item para maiúsculas, independente da maneira que foram escritas.
+
+Com a configuração DISPLAY com o valor INLINE-BLOCK, você vai conseguir alterar a posição de cada item da lista.
+
+As propriedades BACKGROUND-COLOR e COLOR modificam a cor do objeto.
+
+Com o PADDING, vamos configurar o espaço interno de cada objeto, enquanto o MARGIN vai definir o espaço externo de cada um deles.
+
+O POSITION do CSS3, vai configurar qual será a base de movimentação em relação ao seu objeto container. Os valores aceitos são ABSOLUTE e RELATIVE.
+
+As propriedades LEFT e TOP vão configurar a posição do objeto em suas grandezas em pixels para o lado esquerdo e borda superior, respectivamente.
+
+Utilizando a propriedade DISPLAY com o valor NONE, podemos esconder determinados objetos utilizando CSS3.
