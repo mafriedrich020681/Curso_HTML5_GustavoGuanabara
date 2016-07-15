@@ -65,7 +65,7 @@ Configuração global nas CSS: Utilizando a tag STYLE do HTML5, você pode criar
 
 Tags de formatação em HTML5: Entenda o funcionamento de tags como SUP, SUB, CODE e PRE.
 
-# 8 - Códigos de Cores em HTML5 e CSS3
+## 8 - Códigos de Cores em HTML5 e CSS3
 
 Algumas tags e parâmetros foram descontinuadas do HTML4 para o HTML5, incluindo o FONT COLOR e o BGCOLOR da tag BODY. A partir de agora, devemos utilizar o parâmetro STYLE de qualquer tag e utilizar as configurações de background-color e color do CSS.
 
@@ -83,7 +83,7 @@ De maneira similar, temos também a função hlsa() para indicar também o canal
 
 Podemos também colocar imagens no fundo do site utilizando o parâmetro background e utilizar a função url() do CSS para carregar uma imagem.
 
-# 9 - Imagens em HTML5
+## 9 - Imagens em HTML5
 
 Como inserir uma imagem em HTML5? Nessa aula, veremos como utilizar a tag IMG para inserir fotos em um site feito em HTML5.
 
@@ -97,7 +97,7 @@ Como carregar uma imagem em HTML5 que esteja em uma outra pasta?
 
 Novos parâmetros FIGURE e FIGCAPTION. O HTML5 ganhou um caráter semântico, e utilizar legendas de imagens em HTML5 é um ótimo recurso para otimizar seu site para mecanismos de busca, técnicas conhecidas como SEO.
 
-# 10 - Formatação de Imagens com CSS3
+## 10 - Formatação de Imagens com CSS3
 
 Formatar imagens utilizando folhas de estilo CSS é algo muito simples e requer o conhecimento de alguns parâmetros específicos em HTML5 e CSS3. Nessa aula, você verá como criar um efeito de transparência e animação com CSS em uma legenda que vai flutuar sobre a foto, que também terá uma elegante borda simulando um retrato sobre a mesa.
 
@@ -126,3 +126,17 @@ Modificando opacidade com CSS utilizando o parâmetro OPACITY.
 Utilizando o HOVER em um objeto com CSS vai fazer com que uma formatação específica
 
 TRANSITION com CSS adiciona efeitos de transição ao modificar características visuais em um objeto.
+
+## 11 – Listas em HTML5 com OL e UL
+
+Menus e listas em HTML5.
+
+Nessa aula, vamos aprender como criar um menu em HTML5 utilizando a nova tag NAV.
+
+Além disso, veremos como criar listas em HTML5 utilizando as tags OL UL e LI.
+
+A tag OL (Ordered lists) vai criar uma lista ordenada. Utilizando os valores do parâmetro TYPE, você pode criar uma lista ordenada numérica (1), alfabética (a/A) ou em algarismos romanos (i/I). O parâmetro START da tag OL vai indicar onde vai começar a contagem dos itens. O parâmetro START aceita apenas valores numéricos, independente da maneira utilizada para numerar.
+
+A tag UL (Unordered lists) vai criar uma lista com demarcadores ou lista não-ordenada. O parâmetro TYPE para OL suporta os valores CIRCLE, SQUARE ou DISC. Para a tag UL, o parâmetro START simplesmente não funciona.
+
+Podemos também criar hierarquia com listas, utilizando tags OL e UL aninhadas.
