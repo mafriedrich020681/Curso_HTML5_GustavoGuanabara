@@ -140,3 +140,13 @@ A tag OL (Ordered lists) vai criar uma lista ordenada. Utilizando os valores do 
 A tag UL (Unordered lists) vai criar uma lista com demarcadores ou lista não-ordenada. O parâmetro TYPE para OL suporta os valores CIRCLE, SQUARE ou DISC. Para a tag UL, o parâmetro START simplesmente não funciona.
 
 Podemos também criar hierarquia com listas, utilizando tags OL e UL aninhadas.
+
+## 12 – Links em HTML5
+
+Criando links em sites HTML5.
+
+Vamos entender como realizar ligações entre sites ou entre páginas dentro de um mesmo site. Para criar um link em HTML5, basta criar uma âncora utilizando a tag A.
+
+O parâmetro Hypertext Reference, ou HREF. Ele cria uma referência hipertexto para outras páginas.
+
+O parâmetro TARGET da tag A vai permitir indicar em qual janela o conteúdo será aberto. O valor _blank vai permitir abrir em uma janela em branco, enquanto o parâmetro _self vai abrir o conteúdo na janela atual.
