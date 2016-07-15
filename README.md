@@ -173,3 +173,11 @@ O POSITION do CSS3, vai configurar qual será a base de movimentação em relaç
 As propriedades LEFT e TOP vão configurar a posição do objeto em suas grandezas em pixels para o lado esquerdo e borda superior, respectivamente.
 
 Utilizando a propriedade DISPLAY com o valor NONE, podemos esconder determinados objetos utilizando CSS3.
+
+## 14 – Efeitos visuais em CSS3
+
+Vamos aprender alguns efeitos bem interessantes utilizando o CSS3.
+
+Utilizando o modificador :HOVER aplica o efeito quando movemos o mouse por cima de um objeto.
+
+Com o seletor TRANSITION, podemos monitorar alterações nos objetos e fazer efeitos de transição.
