@@ -201,3 +201,13 @@ Para carregar imagens via CSS, podemos utilizar o modificador BACKGROUND usando 
 Para a configuração de texto, utilizaremos FONT-FAMILY, FONT-SIZE, COLOR e TEXT-SHADOW.
 
 Além disso, configuramos os espaços internos e periféricos dos objetos com os parâmetros MARGIN e PADDING e suas variações MARGIN-BOTTOM e MARGIN-TOP.
+
+## 17 – Fontes em CSS3
+
+Como mudar a fonte de um site usando CSS3 e um arquivo True Type Font (TTF) com fontes personalizadas em CSS3.
+
+Utilizando o modificador @FONT-FACE das CSS3, com o FONT-FAMILY e o SRC, poderemos criar fontes personalizadas utilizando CSS3.
+
+O usuário que visita o seu site não precisa ter a fonte instalada. Ela é instalada automaticamente.
+
+Como usar Google Fonts para inserir uma fonte personalizada do seu site utilizando o @IMPORT.
