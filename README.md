@@ -181,3 +181,11 @@ Vamos aprender alguns efeitos bem interessantes utilizando o CSS3.
 Utilizando o modificador :HOVER aplica o efeito quando movemos o mouse por cima de um objeto.
 
 Com o seletor TRANSITION, podemos monitorar alterações nos objetos e fazer efeitos de transição.
+
+## 15 – Formatação de Interfaces com HTML5
+
+Template HTML5 grátis. A construção de interfaces em HTML5 necessita da organização das áreas do nosso site. Podemos fazer isso em qualquer tag, incluindo DIV, HEADER, ARTICLE, FOOTER e muitas outras.
+
+O modificador WIDTH vai configurar a largura de um objeto. O posicionamento em CSS pode ser ABSOLUTE ou RELATIVE.
+
+A centralização de um objeto em CSS3 é utilizando o parâmetro MARGIN.
