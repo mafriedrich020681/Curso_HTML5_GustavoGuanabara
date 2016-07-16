@@ -189,3 +189,15 @@ Template HTML5 grátis. A construção de interfaces em HTML5 necessita da organ
 O modificador WIDTH vai configurar a largura de um objeto. O posicionamento em CSS pode ser ABSOLUTE ou RELATIVE.
 
 A centralização de um objeto em CSS3 é utilizando o parâmetro MARGIN.
+
+## 16 - Cabeçalho em CSS3
+
+Nessa aula, veremos como criar cabeçalhos para sites HTML5 utilizando CSS3 e alguns parâmetros adicionais para realizar uma formatação.
+
+– Os modificadores BORDER-TOP, BORDER-BOTTOM, BORDER-LEFT e BORDER-RIGHT configura linhas em volta do objeto e aceita valores como SOLID, DOTTED, DASHED, etc.
+
+Para carregar imagens via CSS, podemos utilizar o modificador BACKGROUND usando a função URL para carregar o arquivo no fundo dos objetos. Utilizando o parâmetro NO-REPEAT para que ele não repita o objeto.
+
+Para a configuração de texto, utilizaremos FONT-FAMILY, FONT-SIZE, COLOR e TEXT-SHADOW.
+
+Além disso, configuramos os espaços internos e periféricos dos objetos com os parâmetros MARGIN e PADDING e suas variações MARGIN-BOTTOM e MARGIN-TOP.
