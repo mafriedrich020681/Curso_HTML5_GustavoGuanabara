@@ -211,3 +211,17 @@ Utilizando o modificador @FONT-FACE das CSS3, com o FONT-FAMILY e o SRC, poderem
 O usuário que visita o seu site não precisa ter a fonte instalada. Ela é instalada automaticamente.
 
 Como usar Google Fonts para inserir uma fonte personalizada do seu site utilizando o @IMPORT.
+
+## 18 – Semântica em HTML5
+
+Como usar as tags SECTION, ASIDE e FOOTER. O HTML5 possui algumas tags que dão significado ao conteúdo da página.
+
+SECTION: Cria uma sessão que vai poder conter vários artigos (ARTICLE) ou objetos.
+
+ASIDE: São conteúdos periféricos, que estão diretamente relacionados ao conteúdo do artigo principal.
+
+FOOTER: É o rodapé da página ou do conteúdo específico.
+
+Para configurar essas tags e utilizar o posicionamento correto, utilizaremos o CSS3 com os modificadores DISPLAY: BLOCK e o FLOAT para gerar uma flutuação.
+
+Caso seja necessário interromper a flutuação, utilizaremos o modificador CSS CLEAR:BOTH para eliminá-la.
