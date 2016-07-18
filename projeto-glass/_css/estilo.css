@@ -130,6 +130,17 @@ section#corpo {
 	border-right: 1px solid #606060;
 	padding-right: 15px;
 }
+table#tabelaesp {
+	border: 1px solid #606060;
+	border-spacing: 0;
+	margin-left: auto;
+	margin-right: auto;
+}
+table#tabelaesp td {
+	border: 1px solid #606060;
+	padding: 10px;
+}
+
 aside#lateral {
 	display: block;
 	width: 400px;

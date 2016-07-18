@@ -225,3 +225,20 @@ FOOTER: É o rodapé da página ou do conteúdo específico.
 Para configurar essas tags e utilizar o posicionamento correto, utilizaremos o CSS3 com os modificadores DISPLAY: BLOCK e o FLOAT para gerar uma flutuação.
 
 Caso seja necessário interromper a flutuação, utilizaremos o modificador CSS CLEAR:BOTH para eliminá-la.
+
+## 19 – Tabelas em HTML
+
+Como criar tabelas em HTML5? Veremos nessa aula, como utilizar as tags TABLE, CAPTION, TR, TD e muitas outras usadas para criar tabelas em sites HTML.
+
+Cada linha da tabela em HTML será uma Table Row, ou TR.
+Cada célula de dados será uma Table Data, ou TD.
+
+Observação: A partir do HTML5, os fechamentos das tags /TR e /TD são opcionais e podem ser omitidas.
+
+Utilizando CSS3, podemos utilizar alguns modificadores para formatar a tabela, usando BORDER para criar bordas sólidas para TABLE, TR e TD.
+
+O modificador BORDER-SPACING das CSS modifica o espaço entre as células de uma tabela.
+
+No HTML, podemos realizar ROWSPAN, que vai criar uma expansão de linha nas células.
+
+De maneira similar, utilizando COLSPAN, teremos uma expansão de coluna nas células de uma tabela HTML5.
