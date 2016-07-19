@@ -250,3 +250,13 @@ Veja como criar estilos de formatação com CSS3 para tabelas feitas em HTML5.
 Na aula anterior do Curso de HTML5, fizemos a criação de uma TABLE utilizando parâmetros como COLSPAN e ROWSPAN. Nessa aula, formataremos a tabela criada utilizando CSS3, com modificadores como VERTICAL-ALIGN.
 
 Veja como formatar cada coluna de uma tabela com cores diferentes, utilizando o parâmetro CLASS diferentes para cada coluna.
+
+## 21 – Interfaces em HTML5
+
+Veja como construir interfaces complexas utilizando apenas HTML5 e CSS3. Na versão 5, temos várias tags semânticas como HEADER, SECTION, ASIDE, NAV, FOOTER e ARTICLE.
+
+Para criar um artigo em HTML5, utilize a tag ARTICLE. Os conteúdos relacionados a esse artigo podem ser tratados como ASIDE.
+
+É importante saber que podemos usar a tag HEADER para qualquer tipo de cabeçalho, não apenas para o cabeçalho do site. Nessa aula, veremos que um ARTICLE também pode possuir um cabeçalho HEADER.
+
+Para formatar os componentes, utilizamos alguns modificadores das CSS3, como: margin, padding, color, background-color, font-family e muito mais.
