@@ -260,3 +260,17 @@ Para criar um artigo em HTML5, utilize a tag ARTICLE. Os conteúdos relacionados
 É importante saber que podemos usar a tag HEADER para qualquer tipo de cabeçalho, não apenas para o cabeçalho do site. Nessa aula, veremos que um ARTICLE também pode possuir um cabeçalho HEADER.
 
 Para formatar os componentes, utilizamos alguns modificadores das CSS3, como: margin, padding, color, background-color, font-family e muito mais.
+
+## 22 – Introdução ao JavaScript
+
+Introdução ao JavaScript. Veja como criar programas simples com a linguagem JS, criada e popularizada pela empresa Netscape.
+
+Vamos aprender alguns comandos específicos e introdutórios do JavaScript, como o alert, document.write, Date
+
+História do JavaScript: em 1992, a OpenWave estava criando a linguagem Cmm, rebatizada para ScriptEase, quando foi comprada pela Netscape. O projeto então passou a se chamar Mocha e logo em seguida (1995) teve seu nome modificado para LiveScript. Por conta de uma negociação com a Sun Microsystems (criadora do Java), uma jogada de marketing mudou o nome da linguagem para JavaScript.
+
+JavaScript não é Java. Ela apenas usa nomes semelhantes por conta da jogada explicada anteriormente. Ambas se parecem por conta da origem, baseada em Linguagem C (C-like).
+
+Atualmente, existe uma versão padronizada do JavaScript, o ECMAScript que está na versão 5.0. O JavaScript atualmente está na versão 1.8.5.
+
+O JavaScript se popularizou e temos várias tecnologias relacionadas, como Ajax, jQuery e CommonJS.
