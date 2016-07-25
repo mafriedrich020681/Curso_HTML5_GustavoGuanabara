@@ -274,3 +274,11 @@ JavaScript não é Java. Ela apenas usa nomes semelhantes por conta da jogada ex
 Atualmente, existe uma versão padronizada do JavaScript, o ECMAScript que está na versão 5.0. O JavaScript atualmente está na versão 1.8.5.
 
 O JavaScript se popularizou e temos várias tecnologias relacionadas, como Ajax, jQuery e CommonJS.
+
+## 23 – JavaScript com Objetos
+
+HTML5 + JavaScript
+
+Entenda JavaScript e veja como trabalhar com FUNCTION para criar funções que são disparadas de acordo com alguns eventos no HTML5, como ONCLICK e ONMOUSEMOVE.
+
+Aprenda a referenciar objeto dentro do JavaScript com DOCUMENT.GETELEMENTBYID().
