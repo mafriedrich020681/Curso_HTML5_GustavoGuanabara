@@ -282,3 +282,7 @@ HTML5 + JavaScript
 Entenda JavaScript e veja como trabalhar com FUNCTION para criar funções que são disparadas de acordo com alguns eventos no HTML5, como ONCLICK e ONMOUSEMOVE.
 
 Aprenda a referenciar objeto dentro do JavaScript com DOCUMENT.GETELEMENTBYID().
+
+## 24 – Funções JavaScript
+
+Como criar funções em JavaScript que recebem parâmetros. Além disso, veremos o conceito de máquina de estados para aprimorar ainda mais nossos scripts.
