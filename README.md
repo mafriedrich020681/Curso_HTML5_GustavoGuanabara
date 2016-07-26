@@ -286,3 +286,9 @@ Aprenda a referenciar objeto dentro do JavaScript com DOCUMENT.GETELEMENTBYID().
 ## 24 – Funções JavaScript
 
 Como criar funções em JavaScript que recebem parâmetros. Além disso, veremos o conceito de máquina de estados para aprimorar ainda mais nossos scripts.
+
+## 25 – Integrando JavaScript e HTML5
+
+Como juntar JavaScript e HTML5 em uma mesma página. Veja como integrar scripts aos seus códigos estáticos em linguagem HTML.
+
+Usando os métodos ONMOUSEOVER e ONMOUSEOUT do JavaScript para executar um procedimento em script chamado mudaFoto().
